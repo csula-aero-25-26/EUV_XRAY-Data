@@ -2,8 +2,8 @@
 Datasets of EUV and XRAY from NOAA's GOES-R satellites
 
 # Dependencies
-numpy
-Pandas
-xarray
-netCDF4
-H5netcdf
+- numpy
+- pandas
+- xarray
+- netCDF4
+- H5netcdf
